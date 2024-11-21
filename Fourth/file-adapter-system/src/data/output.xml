@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+    <record>
+        <city>New York</city>
+        <name>Alice</name>
+        <age>30</age>
+    </record>
+    <record>
+        <city>Los Angeles</city>
+        <name>Bob</name>
+        <age>25</age>
+    </record>
+    <record>
+        <city>Paris</city>
+        <name>Charlie</name>
+        <age>35</age>
+    </record>
+</data>
